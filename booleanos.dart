@@ -5,7 +5,7 @@ void main() {
 
   print(activado);
 
-  activado = !activado;
+  //activado = !activado;
 
   if (activado) {
     print('El motor está funcionando!');
